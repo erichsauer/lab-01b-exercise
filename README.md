@@ -27,3 +27,10 @@ __in order of importance__
 
 ```js
 console.log('later gator')
+```
+# now for an addendum
+
+branches occur naturally on __trees__ & _github repos_, and branch is also shorthand for ___bacon ranch___, a popular salad dressing (probably only in the United Satates). 
+
+---
+thank you for reading!
